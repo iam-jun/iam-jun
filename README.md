@@ -4,7 +4,7 @@ I’m a Senior Software Engineer (mobile-first → full-stack) building chat, HR
 - Mobile: React Native, Kotlin, Swift, SQLite (perf tuning)
 - Web/Backend: SvelteKit, Node.js, Python
 - Cloud: AWS (serverless, IaC), experience delivering in regulated envs (GCC)
-- Leadership: mentoring, code reviews, Delivery Lead @ ST Engineering (VCC)
+- Leadership: mentoring, code reviews, Delivery Lead @ ST Engineering
 
 ## What I’m up to
 - Shipping production React Native apps end-to-end (feature → release → crash-free)
