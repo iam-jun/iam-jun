@@ -1,4 +1,4 @@
-# Hi, I'm Thu 👋
+# Hi, I'm Jun 👋
 
 I’m a Senior Software Engineer (mobile-first → full-stack) building chat, HR, and gov-tech apps.
 - Mobile: React Native, Kotlin, Swift, SQLite (perf tuning)
