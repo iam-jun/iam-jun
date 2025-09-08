@@ -12,5 +12,5 @@ I’m a Senior Software Engineer (mobile-first → full-stack) building chat, HR
 
 ## Achievements
 - Solo-handled BIC Chat mobile with custom features & perf optimizations
-- Led Digital Systems delivery at ST Engineering (VCC), AGIL® Response & IOMS
+- Led Digital Systems delivery at ST Engineering, AGIL® Response & IOMS
 - Built/maintained CI/CD, improved release cadence & stability
